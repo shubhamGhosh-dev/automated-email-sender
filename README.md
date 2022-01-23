@@ -1,10 +1,10 @@
 
-# Project Title
+# Automated News Sender via Email
 
 This is an Automated Email Sending system using python.
 It reads the Name, Email ID and Interest of recipients and get
 all latest news from https://newsapi.org based on recipient's interest, 
-and sends these news to each recipient.
+and sends these newses to each recipient.
 
 
 
